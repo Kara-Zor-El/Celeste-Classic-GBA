@@ -11,17 +11,17 @@ It's almost a direct conversion with minor graphical alterations.
 
 ### original game credits:
 
-Matt Thorson - design and audio
+Maddy Thorson - design and audio
 
-mattmakesgames.com
+www.maddymakesgames.com
 
 Noel Berry - code and art
 
-noelfb.com
+www.noelfb.com
 
 ### Play the original game and view its source here:
 
-lexaloffle.com/bbs/?tid=2145
+www.lexaloffle.com/bbs/?tid=2145
 
 ## Building
 
